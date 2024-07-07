@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-This is a new branch.
+This is the main branch.
